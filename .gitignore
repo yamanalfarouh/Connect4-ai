@@ -1,0 +1,17 @@
+# Build output
+build/
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+nbbuild/
+nbdist/
+.nb-gradle/
+
+# OS
+.DS_Store
+Thumbs.db
