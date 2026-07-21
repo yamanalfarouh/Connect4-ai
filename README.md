@@ -4,7 +4,7 @@ A Java Swing implementation of Connect Four with an AI opponent driven by
 **minimax search with alpha-beta pruning** over a hand-written positional
 heuristic — no external libraries, just the JDK standard library.
 
-![Gameplay screenshot](screenshots/gameplay.png)
+![Gameplay screenshot](screenshots/Connect4-screenshot)
 
 ## Why this project
 
